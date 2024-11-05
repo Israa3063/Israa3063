@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Israa3063
-- 👀 I’m interested in all Engineering aspects .
-- 🌱 I’m currently pursuing a Bachelor of Electronics and communications Engineering.
+- 👀 I’m interested in all aspects of Engineering .
+- 🌱 I’m currently pursuing a Bachelor's degree in Electronics and communications Engineering.
   
 
 <!---
